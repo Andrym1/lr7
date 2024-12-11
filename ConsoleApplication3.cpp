@@ -12,7 +12,7 @@ int main()
 
     double x = 2.0;
 
-    cout << "Результати обчислень:\n";
+    cout << "Hello World:\n";
 
     do
     {
